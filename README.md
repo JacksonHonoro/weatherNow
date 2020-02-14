@@ -12,7 +12,7 @@ Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a apl
 - Utilizar [Redux](https://redux.js.org/basics/usage-with-react/) para gerenciamento de estado;
 - Possibilidade de utilização Online/Offline com algum tipo de persistência de dados Offline;
 - Utilizar de ao menos um componente reutilizável(genérico);
-- [Clean Code] (https://becode.com.br/clean-code/)
+- [Clean Code](https://becode.com.br/clean-code/)
 # Diferenciais:
 
 - OOP;
