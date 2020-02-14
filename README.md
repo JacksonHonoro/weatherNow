@@ -7,4 +7,10 @@ Aqui na Ploomes valorizamos muito uma qualidade: autonomia. Isso quer dizer que,
 Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a aplicação e deixar você tomar as decisões mais profundas sobre a aplicação.
 
 # Critérios mínimos:
+
 - Consumir dados de alguma api [sugestões de apis]
+
+# Sugestões de APIs
+
+As APIs listadas aqui são apenas sugestões, caso queira utilizar de outro serviço, fique a vontade, mas tenha em mente que teremos que executar seu código aqui e sermos capazes de ver essa conexão:
+
