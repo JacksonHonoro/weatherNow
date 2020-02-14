@@ -8,7 +8,7 @@ Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a apl
 
 # Critérios mínimos:
 
-- Consumir dados de alguma api [sugestões de apis]
+- Consumir dados de alguma api [sugestões de apis](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis)
 
 # Sugestões de APIs
 
