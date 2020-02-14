@@ -28,6 +28,8 @@ Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a apl
 Para a entrega, clonar esse repositório e indicar QUAL O PROBLEMA QUE A SUA APLICAÇÃO SE PROPÕE A RESOLVER;
 Incluir também instruções de execução, limitações, bugs conhecidos e quais seriam os próximos passos para a evolução do sistema.
 
+Enviar por email para tiago.provenzano@ploomes.com o link para o repositõrio com a resolução. 
+
 O prazo de entrega é de 5 dias após o envio do email de convite. Você pode enviar sua resolução a partir do primeiro dia, contudo, os critérios de avaliação serão os mesmos independentemente de tempo de resolução. 
 
 # Sugestões de APIs:
@@ -37,3 +39,7 @@ As APIs listadas aqui são apenas sugestões, caso queira utilizar de outro serv
 - [PokeAPI](https://pokeapi.co)
 - [MarvelCommicsAPI](https://rapidapi.com/stefan.skliarov/api/Marvel?endpoint=apiendpoint_011a2d90-f967-11e7-847f-a7b04b853fafgetComicsBySeries)
 - [OpenWeatherMap](https://openweathermap.org/price)
+
+# IMPORTANTE!
+
+Remember to do your best and have fun!
