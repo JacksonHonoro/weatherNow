@@ -8,9 +8,32 @@ Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a apl
 
 # Critérios mínimos:
 
-- Consumir dados de alguma api [sugestões de apis](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis)
+- Consumir dados de alguma API (veja [aqui](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis) sugestões de apis);
+- Utilizar [Redux](https://redux.js.org/basics/usage-with-react/) para gerenciamento de estado;
+- Possibilidade de utilização Online/Offline com algum tipo de persistência de dados Offline;
+- Utilizar de ao menos um componente reutilizável(genérico);
+- [Clean Code] (https://becode.com.br/clean-code/)
+# Diferenciais:
 
-# Sugestões de APIs
+- OOP;
+- SQLite;
+- TypeScript;
+- Layout FODA!;
+- [Expo](https://docs.expo.io/versions/latest/);
+- TDD;
+- Comentários
+
+# Entrega
+
+Para a entrega, clonar esse repositório e indicar QUAL O PROBLEMA QUE A SUA APLICAÇÃO SE PROPÕE A RESOLVER;
+Incluir também instruções de execução, limitações, bugs conhecidos e quais seriam os próximos passos para a evolução do sistema.
+
+O prazo de entrega é de 5 dias após o envio do email de convite. Você pode enviar sua resolução a partir do primeiro dia, contudo, os critérios de avaliação serão os mesmos independentemente de tempo de resolução. 
+
+# Sugestões de APIs:
 
 As APIs listadas aqui são apenas sugestões, caso queira utilizar de outro serviço, fique a vontade, mas tenha em mente que teremos que executar seu código aqui e sermos capazes de ver essa conexão:
-
+- [GetAsteroids](https://rapidapi.com/dimas/api/NasaAPI?endpoint=apiendpoint_b4e69440-f966-11e7-809f-87f99bda0814getAsteroids)
+- [PokeAPI](https://pokeapi.co)
+- [MarvelCommicsAPI](https://rapidapi.com/stefan.skliarov/api/Marvel?endpoint=apiendpoint_011a2d90-f967-11e7-847f-a7b04b853fafgetComicsBySeries)
+- [OpenWeatherMap](https://openweathermap.org/price)
