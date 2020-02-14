@@ -8,7 +8,7 @@ Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a apl
 
 # Critérios mínimos:
 
-- Consumir dados de alguma API (veja [aqui](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis) sugestões de apis);
+- Consumir dados de alguma [API](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis);
 - Utilizar [Redux](https://redux.js.org/basics/usage-with-react/) para gerenciamento de estado;
 - Possibilidade de utilização Online/Offline com algum tipo de persistência de dados Offline;
 - Utilizar de ao menos um componente reutilizável(genérico);
