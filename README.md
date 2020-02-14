@@ -6,6 +6,7 @@ Aqui na Ploomes valorizamos muito uma qualidade: autonomia. Isso quer dizer que,
 
 Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a aplicação e deixar você tomar as decisões mais profundas sobre a aplicação.
 
+Remember to do your best and have fun!
 # Critérios mínimos:
 
 - Consumir dados de alguma [API](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis);
@@ -39,7 +40,3 @@ As APIs listadas aqui são apenas sugestões, caso queira utilizar de outro serv
 - [PokeAPI](https://pokeapi.co)
 - [MarvelCommicsAPI](https://rapidapi.com/stefan.skliarov/api/Marvel?endpoint=apiendpoint_011a2d90-f967-11e7-847f-a7b04b853fafgetComicsBySeries)
 - [OpenWeatherMap](https://openweathermap.org/price)
-
-# IMPORTANTE!
-
-Remember to do your best and have fun!
