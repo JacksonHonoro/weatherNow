@@ -1,6 +1,6 @@
 # React Native Developer Test
 
-Parabéns por chegar até esta fase do processo seletivo para Desenvolvedor React Native Jr.
+Parabéns por chegar até esta fase do processo seletivo para Desenvolvedor React Native.
 
 Aqui na Ploomes valorizamos muito uma qualidade: autonomia. Isso quer dizer que, uma vez que um problema é apresentado para um dos nossos colaboradores, cabe a este decidir qual a melhor solução. 
 
