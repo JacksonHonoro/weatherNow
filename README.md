@@ -1,12 +1,10 @@
 # Clima da cidade
 
 Aplicação construída com React Native, Redux e Typescript.
-A proposta dessa aplicação é mostrar o clima em graus Celsius de qualquer cidade do mundo de forma simples.
+A proposta dessa aplicação é mostrar o clima em graus Celsius de qualquer cidade do mundo de forma simples, com persistência de dados usando o AsyncStorage para manter gravado a cidade digitada.
 API de consulta: [OpenWeatherMap](https://openweathermap.org/api)
 
 # Instruções de execução no ubuntu:
-
-### Observação:
 
 1. Necessario ter instalado o **yarn** e o **@react-native-community/cli**.
 2. Instalando o yarn:
