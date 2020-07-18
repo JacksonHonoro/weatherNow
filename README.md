@@ -1,42 +1,72 @@
-# React Native Developer Test
+# Clima da cidade
 
-Parabéns por chegar até esta fase do processo seletivo para Desenvolvedor React Native.
+Aplicação construída com React Native, Redux e Typescript.
+A proposta dessa aplicação é mostrar o clima em graus Celsius de qualquer cidade do mundo de forma simples.
+API de consulta: [OpenWeatherMap]https://openweathermap.org/api
 
-Aqui na Ploomes valorizamos muito uma qualidade: autonomia. Isso quer dizer que, uma vez que um problema é apresentado para um dos nossos colaboradores, cabe a este decidir qual a melhor solução. 
+# Instruções de execução no ubuntu:
 
-Por isso,em nosso desafio, nos vamos setar alguns critérios mínimos para a aplicação e deixar você tomar as decisões mais profundas sobre a aplicação.
+- Observação:
 
-Remember to do your best and have fun!
-# Critérios mínimos:
+1. Necessario ter instalado o **yarn** e o **@react-native-community/cli**.
+2. Instalando o yarn:
 
-- Consumir dados de alguma [API](https://github.com/Ploomes/JrReactNativeSkillTest/blob/master/README.md#sugestões-de-apis);
-- Utilizar [Redux](https://redux.js.org/basics/usage-with-react/) para gerenciamento de estado;
-- Possibilidade de utilização Online/Offline com algum tipo de persistência de dados Offline;
-- Utilizar de ao menos um componente reutilizável(genérico);
-- [Clean Code](https://becode.com.br/clean-code/)
-# Diferenciais:
+```
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+```
 
-- OOP;
-- SQLite;
-- TypeScript;
-- Layout FODA!;
-- [Expo](https://docs.expo.io/versions/latest/);
-- TDD;
-- Comentários
+- Instalando o React-Native:
 
-# Entrega
+  ```
+  yarn global add @react-native-community/cli
+  ou
+  npm install -g @react-native-community/cli
+  ```
 
-Para a entrega, clonar esse repositório e indicar QUAL O PROBLEMA QUE A SUA APLICAÇÃO SE PROPÕE A RESOLVER;
-Incluir também instruções de execução, limitações, bugs conhecidos e quais seriam os próximos passos para a evolução do sistema.
+  - Caso tiver instalado o pacote **react-native-cli** terá que remover:
 
-Enviar por email para tiago.provenzano@ploomes.com o link para o repositõrio com a resolução. 
+  ```
+  yarn global remove react-native-cli
+  ou
+  npm uninstall -g react-native-cli
+  ```
 
-O prazo de entrega é de 5 dias após o envio do email de convite. Você pode enviar sua resolução a partir do primeiro dia, contudo, os critérios de avaliação serão os mesmos independentemente de tempo de resolução. 
+1. Clone o repositório.
+2. Entre na pasta do repositorio clonado pelo terminal.
+3. Execute os camandos:
 
-# Sugestões de APIs:
+- Para instalar os pacotes de dependencias do projeto:
 
-As APIs listadas aqui são apenas sugestões, caso queira utilizar de outro serviço, fique a vontade, mas tenha em mente que teremos que executar seu código aqui e sermos capazes de ver essa conexão:
-- [GetAsteroids](https://rapidapi.com/dimas/api/NasaAPI?endpoint=apiendpoint_b4e69440-f966-11e7-809f-87f99bda0814getAsteroids)
-- [PokeAPI](https://pokeapi.co)
-- [MarvelCommicsAPI](https://rapidapi.com/stefan.skliarov/api/Marvel?endpoint=apiendpoint_011a2d90-f967-11e7-847f-a7b04b853fafgetComicsBySeries)
-- [OpenWeatherMap](https://openweathermap.org/price)
+```
+yarn
+```
+
+- Para iniciar o metro bundler:
+
+```
+yarn start
+```
+
+- Para iniciar a aplicação:
+
+```
+yarn android
+```
+
+# Limitações:
+
+Esta aplicação, por enquanto, apenas mostra em graus Celsius a:
+
+- Temperatura atual.
+- Sensação térmica.
+- Temperatura máxima e minima.
+- Umidade relativa do ar.
+
+# Próximas Features:
+
+- Mostrar o icone (chuva, sol, nublado) conforme a situação do clima em questão.
+
+- Integrar a api do maps e mostrar a localização da cidade que foi digitada na forma de mapa.
+
+- Possibilitar o usuário de escolher entre graus Fahrenheit e Kelvin.
