@@ -31,7 +31,7 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
   ```
 
 3. Clone o repositório.
-4. Entre na pasta do repositorio clonado pelo terminal.
+4. Entre na pasta (weatherNow) do repositorio clonado pelo terminal.
 5. Execute os camandos:
 
 - Para instalar os pacotes de dependências do projeto:
