@@ -2,11 +2,11 @@
 
 Aplicação construída com React Native, Redux e Typescript.
 A proposta dessa aplicação é mostrar o clima em graus Celsius de qualquer cidade do mundo de forma simples.
-API de consulta: [OpenWeatherMap]https://openweathermap.org/api
+API de consulta: [OpenWeatherMap](https://openweathermap.org/api)
 
 # Instruções de execução no ubuntu:
 
-- Observação:
+### Observação:
 
 1. Necessario ter instalado o **yarn** e o **@react-native-community/cli**.
 2. Instalando o yarn:
@@ -24,7 +24,7 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
   npm install -g @react-native-community/cli
   ```
 
-  - Caso tiver instalado o pacote **react-native-cli** terá que remover:
+- Caso tiver instalado o pacote **react-native-cli** terá que remover:
 
   ```
   yarn global remove react-native-cli
@@ -32,11 +32,11 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
   npm uninstall -g react-native-cli
   ```
 
-1. Clone o repositório.
-2. Entre na pasta do repositorio clonado pelo terminal.
-3. Execute os camandos:
+3. Clone o repositório.
+4. Entre na pasta do repositorio clonado pelo terminal.
+5. Execute os camandos:
 
-- Para instalar os pacotes de dependencias do projeto:
+- Para instalar os pacotes de dependências do projeto:
 
 ```
 yarn
@@ -60,12 +60,12 @@ Esta aplicação, por enquanto, apenas mostra em graus Celsius a:
 
 - Temperatura atual.
 - Sensação térmica.
-- Temperatura máxima e minima.
+- Temperatura máxima e mínima.
 - Umidade relativa do ar.
 
 # Próximas Features:
 
-- Mostrar o icone (chuva, sol, nublado) conforme a situação do clima em questão.
+- Mostrar os ícones (chuva, sol, nublado) conforme a situação do clima em questão.
 
 - Integrar a api do maps e mostrar a localização da cidade que foi digitada na forma de mapa.
 
